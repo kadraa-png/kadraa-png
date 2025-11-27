@@ -1,7 +1,7 @@
 # Hi, I'm **kadraa**
 ### Developer • Designer • Linux user btw
 
-I'm an 18-years old self-taught developer and designer who likes building clean, efficient, and practical software.  
+I'm an 18-years old self-taught developer and designer from Bosnia and Herzegovina who likes building clean, efficient, and practical software.  
 I started coding when I was 13, and ever since then I've been creating websites, tools, and experiments to sharpen my skills and explore new tech.
 
 ---
