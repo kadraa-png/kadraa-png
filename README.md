@@ -15,7 +15,7 @@ I started coding when I was 13, and ever since then I've been creating websites,
 ---
 
 ## 💡 What I'm Looking For
-Anything that lets me build, learn, and improve — freelance work, open-source contributions, internships, or collaboration on interesting projects.
+Anything that lets me build, learn, and improve: freelance work, open-source contributions, internships, or collaboration on interesting projects.
 
 ---
 
