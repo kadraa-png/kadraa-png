@@ -28,7 +28,7 @@
 </p>
 
 
-### 📫 Reach me
+### Reach me
 
 - [kadraa.lol](https://kadraa.space)
 - Open an issue on any of my repos, I read them
