@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm kadraa 👋</h1>
+<h1 align="center">hey, i'm kadraa</h1>
 <p align="center">developer from Bosnia and Herzegovina · i use arch btw</p>
 
 <p align="center">
@@ -8,13 +8,13 @@
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,tailwind,linux,arch,bash,git,vscode&perline=14" alt="stack">
 </p>
 
-### 🚀 Projects
+### Projects
 
 | Project | What it is |
 |---|---|
@@ -22,7 +22,7 @@
 | [**relacounter**](https://github.com/kadraa-png/relacounter) | Small web counter app |
 | [**kadraa.lol**](https://kadraa.lol) | My personal site |
 
-### 📊 Stats
+### Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=kadraa-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats">
@@ -35,9 +35,9 @@
 
 ### 📫 Reach me
 
-- 🌐 [kadraa.lol](https://kadraa.lol)
-- 💬 Open an issue on any of my repos — I read them
+- [kadraa.lol](https://kadraa.lol)
+- Open an issue on any of my repos, I read them
 
 ---
 
-<p align="center"><sub>⭐ if something here helped you, a star goes a long way</sub></p>
+<p align="center"><sub>if something here helped you, a star goes a long way</sub></p>
