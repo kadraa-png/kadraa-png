@@ -32,3 +32,12 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=kadraa-png&theme=tokyonight&hide_border=true" alt="streak">
 </p>
+
+### 📫 Reach me
+
+- 🌐 [kadraa.lol](https://kadraa.lol)
+- 💬 Open an issue on any of my repos — I read them
+
+---
+
+<p align="center"><sub>⭐ if something here helped you, a star goes a long way</sub></p>
