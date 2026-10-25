@@ -20,22 +20,17 @@
 |---|---|
 | [**KeyPulse**](https://github.com/kadraa-png/KeyPulse) | Auto clicker / macro tool built for Linux |
 | [**relacounter**](https://github.com/kadraa-png/relacounter) | Small web counter app |
-| [**kadraa.lol**](https://kadraa.lol) | My personal site |
+| [**kadraa.lol**](https://kadraa.space) | My personal site |
 
 ### Stats
-
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kadraa-png&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="stats">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadraa-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages">
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=kadraa-png&theme=tokyonight&hide_border=true" alt="streak">
-</p>
 
 ### 📫 Reach me
 
-- [kadraa.lol](https://kadraa.lol)
+- [kadraa.lol](https://kadraa.space)
 - Open an issue on any of my repos, I read them
 
 ---
