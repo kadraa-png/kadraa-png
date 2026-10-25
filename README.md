@@ -14,14 +14,6 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,tailwind,linux,arch,bash,git,vscode&perline=14" alt="stack">
 </p>
 
-### Projects
-
-| Project | What it is |
-|---|---|
-| [**KeyPulse**](https://github.com/kadraa-png/KeyPulse) | Auto clicker / macro tool built for Linux |
-| [**relacounter**](https://github.com/kadraa-png/relacounter) | Small web counter app |
-| [**kadraa.lol**](https://kadraa.space) | My personal site |
-
 ### Stats
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadraa-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages">
