@@ -14,11 +14,6 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,html,css,tailwind,linux,arch,bash,git,vscode&perline=14" alt="stack">
 </p>
 
-### Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadraa-png&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages">
-</p>
-
 
 ### Reach me
 
