@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400" role="img" aria-label="Novka">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#7ee787"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.92" cy="0.05" r="0.75">
+      <stop offset="0" stop-color="#2ea043" stop-opacity="0.35"/><stop offset="1" stop-color="#2ea043" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="400" rx="20" fill="#0d1117"/>
+  <rect width="800" height="400" rx="20" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="799" height="399" rx="19.5" fill="none" stroke="#30363d"/>
+  <rect x="48" y="48" width="44" height="5" rx="2.5" fill="url(#g)"/>
+  <text x="48" y="86" font-family="'JetBrains Mono', 'Fira Code', Menlo, Consolas, monospace" font-size="17" letter-spacing="1.5" fill="#7ee787">KOTLIN · JETPACK COMPOSE</text>
+  <text x="48" y="140" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#f0f6fc">Novka</text>
+  <text x="48" y="184" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#c9d1d9">Offline finance app that logs card payments</text><text x="48" y="218" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" fill="#c9d1d9">straight from your notifications.</text>
+  <rect x="48" y="262" width="224" height="96" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/><text x="66" y="306" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="url(#g)">0</text><text x="66" y="338" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e">servers or trackers</text><rect x="288" y="262" width="224" height="96" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/><text x="306" y="306" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="url(#g)">Any</text><text x="306" y="338" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e">currency, daily rates</text><rect x="528" y="262" width="224" height="96" rx="14" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/><text x="546" y="306" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="url(#g)">v1.0</text><text x="546" y="338" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#8b949e">released, GPL-3.0</text>
+</svg>
